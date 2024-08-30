@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAQaO3NxeOs_VA4wFPcfxixFAAPYu_pezI',
-    appId: '1:486055062212:android:0ad6754ef7c3e6fb3c3791',
-    messagingSenderId: '486055062212',
-    projectId: 'spotifyapp-f7691',
-    storageBucket: 'spotifyapp-f7691.appspot.com',
+    apiKey: 'AIzaSyD-Tl2XBg__iaLUSivdXjmmuiWvfDZDbbk',
+    appId: '1:103881527322:android:45deb0dcbd57a6c2eac1a3',
+    messagingSenderId: '103881527322',
+    projectId: 'spotifyclone-b378c',
+    storageBucket: 'spotifyclone-b378c.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBHTOQYW6UuUFxIbve3oy_MAmHlkWzQh7o',
-    appId: '1:486055062212:ios:6ae694686b98c65e3c3791',
-    messagingSenderId: '486055062212',
-    projectId: 'spotifyapp-f7691',
-    storageBucket: 'spotifyapp-f7691.appspot.com',
+    apiKey: 'AIzaSyA1451Xw3cF5JfQZejOb21PzjaqEUoX_2U',
+    appId: '1:103881527322:ios:eacf9c1600cec856eac1a3',
+    messagingSenderId: '103881527322',
+    projectId: 'spotifyclone-b378c',
+    storageBucket: 'spotifyclone-b378c.appspot.com',
     iosBundleId: 'com.example.spotifyApp',
   );
 }
