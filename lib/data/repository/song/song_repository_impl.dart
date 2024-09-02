@@ -5,7 +5,7 @@ import 'package:spotify_app/service_locator.dart';
 
 class SongRepositoryImpl extends SongsRepository {
   @override
-  Future<Either> getNewsSongs() async {
+  Future<Either> getNewSongs() async {
     return await sl<SongFirebaseService>().getNewSongs();
   }
 }
